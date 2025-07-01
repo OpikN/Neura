@@ -1,0 +1,2 @@
+ENV_VAR=your_value
+ANOTHER_ENV=another_value
